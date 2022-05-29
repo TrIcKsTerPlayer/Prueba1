@@ -1,5 +1,5 @@
 public class Suma {
-    public statitc void main (String args[]) {
+    public static void main (String args[]) {
         int sumandoUno = 15;
         int sumandoDos = 12;
 
